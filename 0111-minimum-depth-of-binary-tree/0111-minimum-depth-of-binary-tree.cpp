@@ -9,28 +9,35 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+#include <queue>
+
 class Solution {
 public:
     int minDepth(TreeNode* root) {
         if (root == nullptr)
             return 0;
-        vector<TreeNode*> queue = {root};
-        vector<int> heights = {1};
+        std::queue<TreeNode*> queue;
+        std::queue<int> heights;
         int index = 0;
+        TreeNode* current = root;
+        int depth = 1;
         
-        while (queue[index] != nullptr) {
-            if (queue[index]->left == nullptr && queue[index]->right == nullptr) 
-                return heights[index];
-            if (queue[index]->left != nullptr) {
-                queue.push_back(queue[index]->left);
-                heights.push_back(heights[index] + 1);
+        while (current != nullptr) {
+            if (current->left == nullptr && current->right == nullptr) 
+                return depth;
+            if (current->left != nullptr) {
+                queue.push(current->left);
+                heights.push(depth + 1);
             }
-            if (queue[index]->right != nullptr) {
-                queue.push_back(queue[index]->right);
-                heights.push_back(heights[index] + 1);
+            if (current->right != nullptr) {
+                queue.push(current->right);
+                heights.push(depth + 1);
             }
-            index++;
+            current = queue.front();
+            queue.pop();
+            depth = heights.front();
+            heights.pop();
         }
-        return heights[index];
+        return depth;
     }
 };
