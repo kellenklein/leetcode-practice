@@ -35,4 +35,12 @@ A collection of LeetCode practice questions - Maintained using [LeetHub v2](http
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kellenklein/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kellenklein/leetcode-practice/tree/master/0617-merge-two-binary-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kellenklein/leetcode-practice/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kellenklein/leetcode-practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
