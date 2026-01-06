@@ -19,16 +19,20 @@ A collection of LeetCode practice questions - Maintained using [LeetHub v2](http
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kellenklein/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kellenklein/leetcode-practice/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kellenklein/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kellenklein/leetcode-practice/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kellenklein/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kellenklein/leetcode-practice/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kellenklein/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kellenklein/leetcode-practice/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
