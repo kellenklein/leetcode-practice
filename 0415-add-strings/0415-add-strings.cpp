@@ -21,7 +21,7 @@ public:
             carry = (value) / 10;
         }
         while (carry > 0) {
-            result = (char)(carry + '0') + result;
+            result = (char)(carry % 10 + '0') + result;
             carry /= 10;
         }
         return result;
