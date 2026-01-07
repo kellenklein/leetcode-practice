@@ -11,6 +11,7 @@ A collection of LeetCode practice questions - Maintained using [LeetHub v2](http
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kellenklein/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0415-add-strings](https://github.com/kellenklein/leetcode-practice/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode practice questions - Maintained using [LeetHub v2](http
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kellenklein/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/kellenklein/leetcode-practice/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/kellenklein/leetcode-practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
