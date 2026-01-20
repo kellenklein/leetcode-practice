@@ -47,10 +47,12 @@ A collection of LeetCode practice questions - Maintained using [LeetHub v2](http
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/kellenklein/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kellenklein/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/kellenklein/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kellenklein/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode practice questions - Maintained using [LeetHub v2](http
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/kellenklein/leetcode-practice/tree/master/0415-add-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/kellenklein/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
